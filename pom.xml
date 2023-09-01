@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla-S</name>
-	      <url>http://localhost:8081/repository/tesla-R/</url>
+	      <url>http://localhost:8081/repository/tesla-S/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
