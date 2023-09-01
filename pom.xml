@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.3-SNAPSHOT</version> 
+	<version>0.0.2-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>NVJ Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/tesla-snapshots//</url>
+	      <url>http://localhost:8081/repository/tesla-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
